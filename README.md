@@ -1,4 +1,4 @@
-# Concert Ticketing System
+# Concert Ticket Booking System
 
 A robust, scalable Spring Boot-based concert ticket booking system with real-time pricing, distributed caching, and event-driven architecture.
 
